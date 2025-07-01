@@ -1,12 +1,6 @@
 --[[
     ========================================================
-    --   gemlogin tool by TuanHaii (v10.3 - Definitive Edition+)
-    --   - Code được định dạng lại hoàn toàn để sửa lỗi cú pháp.
-    --   - Bao gồm tất cả chức năng và hệ thống báo lỗi.
-    --   - SỬA LỖI NGHIÊM TRỌNG: Line ESP không hoạt động (sai Parent) và
-    --     Distance ESP chỉ hoạt động trên một người.
-    --     Logic đã được viết lại hoàn toàn để đảm bảo ổn định.
-    --   - Đây là phiên bản cuối cùng, ổn định để tải lên GitHub.
+    --   gemlogin tool by TuanHaii 
     ========================================================
 ]]
 
